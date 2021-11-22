@@ -1,2 +1,2 @@
-Testes de git e github
-Isso é uma alteração!
+Versionamento com git e github
+Lista de comandos e suas funcões:
